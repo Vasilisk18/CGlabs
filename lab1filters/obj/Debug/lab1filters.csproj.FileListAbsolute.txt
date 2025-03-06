@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\lab1filters\lab1filters\obj\Debug\lab1filters.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab1filters\lab1filters\obj\Debug\lab1filters.Form1.resources
+C:\Users\User\source\repos\lab1filters\lab1filters\obj\Debug\lab1filters.Properties.Resources.resources
+C:\Users\User\source\repos\lab1filters\lab1filters\obj\Debug\lab1filters.csproj.GenerateResource.cache
+C:\Users\User\source\repos\lab1filters\lab1filters\obj\Debug\lab1filters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab1filters\lab1filters\bin\Debug\lab1filters.exe.config
+C:\Users\User\source\repos\lab1filters\lab1filters\bin\Debug\lab1filters.exe
+C:\Users\User\source\repos\lab1filters\lab1filters\bin\Debug\lab1filters.pdb
+C:\Users\User\source\repos\lab1filters\lab1filters\obj\Debug\lab1filters.exe
+C:\Users\User\source\repos\lab1filters\lab1filters\obj\Debug\lab1filters.pdb
